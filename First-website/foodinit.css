@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color:darkblue;
+ 
+}
+a{
+    text-align:end;
+    color: black;
+    text-decoration: underline;
+}
+.Class1{
+    font-family: serif;
+    font-size: 15px;
+}
+.H2Class{
+    text-align: center;
+    font-size: 15px;
+    color: red;
+    border: 5;
+}

@@ -1,0 +1,28 @@
+body{
+    background-image:url(https://i.insider.com/5136501b69beddf456000025?width=1100&format=jpeg&auto=webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container{/*
+    background: linear-gradient(to right,#090979,#790943);
+    box-shadow: 3px 5px 3px black;*/
+}
+h1{
+    color:red;
+    text-shadow: 2px 2px 5px black;
+}
+h2{
+    color:rgb(0, 204,30);
+    text-shadow: 1px 1px 3px darkblue;
+
+}
+.borderImg{
+    border: 5px solid red;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 30%;
+    
+}

@@ -1,0 +1,21 @@
+h1,h2,h3{
+    color:#ffffff;
+    text-shadow:2px 2px 5px black;
+    font-family: sans-serif;
+    
+
+}
+
+.borderImg{
+    display: block;
+    border:2px solid black;
+    margin: auto;
+    width: 50%;
+
+}
+
+body{
+    background-color: #444; 
+    
+    
+}

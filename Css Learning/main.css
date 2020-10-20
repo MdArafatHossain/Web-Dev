@@ -1,0 +1,23 @@
+body {
+    background-color:turquoise;
+}
+h1{
+    color:Red;
+    font-size:50px;
+    font-family: fantasy;
+    text-align:center; 
+}
+  /*
+  to grab a class from html we have to use .class_name 
+*/
+.square{
+   width: 100px;
+   height: 100px;
+   background-color: blue;
+    margin: auto;
+}
+/* to grab a id use pound sign # */
+#circle{
+    color:green;
+    font-size: 100px,
+}

@@ -1,0 +1,36 @@
+h1{
+    color:#ffffff;
+    text-shadow:2px 2px 5px black;
+}
+
+h2{
+    color:rgb(0,204,255);
+    text-shadow: 1px 1px 3px darkblue;
+}
+.borderImg{
+    display: block;
+    border:2px solid black;
+    margin: auto;
+    width: 50%;
+
+}
+.container{
+    border: 10px solid red;
+    text-shadow: linear-gradient(to right,#ff0000,#2020ff);
+}
+body{
+    background-image: url("https://s17736.pcdn.co/wp-content/uploads/2019/03/jason-leung-479251-unsplash-1024x683.jpg");
+    
+}
+/*.NewClass{
+    background: yellow;
+    border: 5px solid black;
+}*/
+ul li{
+    color:Green;
+    font-size: 20px;
+}
+/*we are going to learn difference between decendents and then child slectors */ 
+ul >li{
+ color:yellow;    
+}/* ">" is a selector. list under the ul are children which will inherit the properties from the decendents */
